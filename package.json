@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "pdfreader": "^3.0.0"
+  }
+}
